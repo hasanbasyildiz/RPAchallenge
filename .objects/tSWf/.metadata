@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox Rpa Challenge",
+  "Type": "App",
+  "Id": "tSWfkAcoF0S2NMBdzxuGrg",
+  "Reference": "Uj1H_-2LQESJbxH6Y8DboQ/tSWfkAcoF0S2NMBdzxuGrg",
+  "Created": "2024-06-04T00:33:20.567133Z",
+  "Updated": "2024-06-04T00:33:20.567133Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

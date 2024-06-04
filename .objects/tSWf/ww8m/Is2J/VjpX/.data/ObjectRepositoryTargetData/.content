@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hE04SdQeYUSnAxQu2fXf2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rpachallenge.com/" CVScreenId="3a110256-7a64-4ae7-9486-5d87a34cbcab" CvElementArea="614, 625, 391, 50" CvType="InputBox" DesignTimeRectangle="623, 615, 377, 58" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='gF9V9' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl name='gF9V9' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="7663462a-f529-48b5-9bf8-4da05e15f920" IsResponsive="True" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3a110256-7a64-4ae7-9486-5d87a34cbcab" CvTextArea="620, 594, 63, 15" CvTextArgument="Address" CvType="Text" DesignTimeRectangle="623, 592, 61, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Address' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Address' tag='LABEL' type='' class='' check:innerText='Address' /&gt;" Guid="88c7df66-4d1b-4fda-adf7-08fe3b166a0a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="64dd8d94499b95b10770daf59dbaf5c6.png" xmlns="">02XxzatzKPU-cInFW2BpViw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

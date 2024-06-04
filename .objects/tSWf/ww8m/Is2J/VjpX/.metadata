@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into 'Aderss'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "VjpXewAx1Ee8FAQ2P-to8Q",
+  "Reference": "Uj1H_-2LQESJbxH6Y8DboQ/VjpXewAx1Ee8FAQ2P-to8Q",
+  "ParentRef": "Uj1H_-2LQESJbxH6Y8DboQ/Is2JUQIlYkWj_Y8sWH8Llg",
+  "Created": "2024-06-04T00:33:21.098577Z",
+  "Updated": "2024-06-04T00:33:21.098577Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
